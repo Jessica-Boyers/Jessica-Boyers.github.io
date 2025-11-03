@@ -4,7 +4,7 @@ email: sovereignessdesigns@proton.me
 url: https://Jessica-Boyers.github.io
 description: "Engineering Portfolio for Jessica Boyers, mechanical engineer, artist, and owner of Sovereigness Designs"
 keywords: "mechanical, engineer, maker, makerspace"
-skills: "Mechanical Engineer - Artist - Small Business Owner"
+skills: "Mechanical Engineer - Artist & Maker - Small Business Owner"
 meta_author: Boyers Jessica
 
 # Google webmaster tools
@@ -32,19 +32,19 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Jessica Boyers
+  #location: Location
   social: Around the Web
-  credits: Credits
+  #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/Jessica-Boyers
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 1101 Carrington Park Cir Apt 206
+  - line: 1101 Carrington Park Cir
   - line: Morrisville, NC 27560
 
 # Credits content
