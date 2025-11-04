@@ -3,23 +3,34 @@ layout: default
 modal-id: 1
 date: 2020-2024
 title: "Ligation Clip Systems"
-tile_title: "Teleflex Ligation"   # optional; falls back to `title` if omitted
-img: cartridge.png                  # image file placed in img/portfolio/
-alt: "Descriptive alt text"
-project-date: "Month Year"
-client: "Client or Organization"
-category: "Category or Tech (e.g., Web Development)"
+tile_title: "Teleflex Ligation"     # optional; falls back to `title`
+img: cartridge.png                    # main hero/tile image in img/portfolio/
+alt: "Next Generation Polymer Ligation Clip, Cartridge, Applier, and Remover"
+project-date: "2024"
+client: "Teleflex"
+category: "Product Development"
+
+# OPTIONAL: Additional images shown below the text in the modal
+# Either an array of strings:
+# images:
+#   - extra-1.jpg
+#   - extra-2.jpg
+#
+# Or an array of objects with alt/caption:
+images:
+  - path: extra-1.jpg
+    alt: "Exploded view of enclosure"
+    caption: "CNC-milled backplate and standoffs"
+  - path: extra-2.jpg
+    alt: "PCB close-up"
+    caption: "Final rework and inspection"
+  - path: extra-3.jpg
+    alt: "Installed assembly"
+    caption: "Installed in the test fixture"
+
 description: >
-  One or two sentences about what this project is and why it's interesting.
-  Keep it concise; the full writeup can go inside the modal content if the
-  theme supports it.
+  Brief blurb about the project. Keep it concise; details live here in the
+  modal with optional extra images below.
 ---
 
-<!--
-If your modal body pulls from post content, you can add richer details here:
-- Goals
-- Role & responsibilities
-- Tech stack
-- Outcome/impact
-- Links (demo, repo)
--->
+<!-- Optional additional body text, if your theme renders post content here. -->
