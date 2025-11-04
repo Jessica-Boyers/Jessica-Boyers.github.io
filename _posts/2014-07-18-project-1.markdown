@@ -1,11 +1,25 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2020-2024
+title: "Ligation Clip Systems"
+tile_title: "Teleflex Ligation"   # optional; falls back to `title` if omitted
+img: cartridge.png                  # image file placed in img/portfolio/
+alt: "Descriptive alt text"
+project-date: "Month Year"
+client: "Client or Organization"
+category: "Category or Tech (e.g., Web Development)"
+description: >
+  One or two sentences about what this project is and why it's interesting.
+  Keep it concise; the full writeup can go inside the modal content if the
+  theme supports it.
 ---
+
+<!--
+If your modal body pulls from post content, you can add richer details here:
+- Goals
+- Role & responsibilities
+- Tech stack
+- Outcome/impact
+- Links (demo, repo)
+-->
