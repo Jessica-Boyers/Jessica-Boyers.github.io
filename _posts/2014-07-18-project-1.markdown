@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2020-2024
+date: 2024
 title: "Ligation Clip Systems"
 tile_title: "Teleflex Ligation"     # optional; falls back to `title`
 img: cartridge.jpg                    # main hero/tile image in img/portfolio/
