@@ -247,9 +247,10 @@ section.success {
     margin: 0;
 }
 
-#portfolio * {
-    z-index: 2;
-}
+/* only the overlays/labels need stacking context */
+#portfolio .portfolio-item .portfolio-link .caption { z-index: 2; }
+#portfolio .portfolio-item .portfolio-link .portfolio-label { z-index: 3; }
+
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
