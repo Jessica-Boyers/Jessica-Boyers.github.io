@@ -205,6 +205,10 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    
+    /* NEW: keep overlay + label clipped and slightly rounded */
+    overflow: hidden;
+    border-radius: 8px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -216,6 +220,7 @@ section.success {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
+    z-index: 2; /* sits below the title label (z-index:3) */
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
@@ -481,4 +486,36 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+/* ============================
+   NEW: Portfolio Title Overlay
+   ============================ */
+
+#portfolio .portfolio-item .portfolio-link img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/* Persistent title label at the bottom of each tile */
+#portfolio .portfolio-item .portfolio-link .portfolio-label {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0.6rem 0.8rem;
+    font-weight: 600;
+    line-height: 1.2;
+    color: #fff;
+    background: linear-gradient(to top, rgba(0,0,0,0.72), rgba(0,0,0,0));
+    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+    pointer-events: none; /* clicks go to the link/image */
+    z-index: 3; /* above hover caption tint so text stays readable */
+}
+
+/* Optional: light zoom on hover */
+#portfolio .portfolio-item .portfolio-link:hover img {
+    transform: scale(1.02);
+    transition: transform 200ms ease;
 }
