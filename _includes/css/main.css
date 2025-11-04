@@ -554,3 +554,32 @@ footer .footer-below {
   }
 }
 
+/* Fix: ensure portfolio tiles render above their overlays */
+#portfolio .portfolio-item { position: relative; }
+
+#portfolio .portfolio-item .portfolio-link {
+  position: relative; /* already present in your CSS, safe to repeat */
+  display: block;
+}
+
+#portfolio .portfolio-item .portfolio-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+  position: relative;   /* give it its own stacking context */
+  z-index: 1;           /* base layer: the image is visible */
+}
+
+#portfolio .portfolio-item .portfolio-link .caption {
+  position: absolute;
+  inset: 0;             /* shorthand for top/right/bottom/left:0 */
+  z-index: 2;           /* hover tint/magnifier sits above the image */
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-label {
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  z-index: 3;           /* text strip stays readable on top */
+  pointer-events: none; /* clicks go through to the link */
+}
+
