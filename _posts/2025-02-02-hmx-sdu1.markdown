@@ -1,0 +1,31 @@
+---
+layout: default
+modal-id: 3
+date: 2025-02-02
+title: "HMX SDU1"
+tile_title: "Ammo Storage Display Unit"     # optional; falls back to `title`
+img: cartridge.jpg                    # main hero/tile image in img/portfolio/
+alt: "NA"
+project-date: "2025"
+client: "Sovereigness Designs"
+category: "Product Development"
+
+# OPTIONAL: Additional images shown below the text in the modal
+# Either an array of strings:
+# images:
+#   - extra-1.jpg
+#   - extra-2.jpg
+#
+# Or an array of objects with alt/caption:
+images:
+  - path: fullsystem.png
+    alt: "Full System Ligation"
+    caption: "NA"
+
+
+description: >
+  The HMX SDU1 Ammunition Storage Display Unit is a firearm accessory for lever action rifles or other tube-fed firearms to display the number of rounds remaining in the magazine. Inspired by science-fiction media, this accessory provides a useful and aesthetic reference for recreational, sport, and competition shooters to know the state of their magazine without disassembling or clearing the firearm.
+  The device mounts to the normal optical rail of the firearm and is a drop-in self contained replacement for the magazine of a Henry Model X, and can be hotswapped or uninstalled freely. I designed and developed this product and sell it at Sovereigness Designs.
+---
+
+<!-- Optional additional body text, if your theme renders post content here. -->
