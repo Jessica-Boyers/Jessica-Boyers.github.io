@@ -1,0 +1,30 @@
+---
+layout: default
+modal-id: 1
+date: 2025-03-03
+title: "Life Size Operation"
+tile_title: "Future Hooman"     # optional; falls back to `title`
+img: cartridge.jpg                    # main hero/tile image in img/portfolio/
+alt: "Next Generation Polymer Ligation Clip, Cartridge, Applier, and Remover"
+project-date: "2025"
+client: "Future Hooman"
+category: "Engineering"
+
+# OPTIONAL: Additional images shown below the text in the modal
+# Either an array of strings:
+# images:
+#   - extra-1.jpg
+#   - extra-2.jpg
+#
+# Or an array of objects with alt/caption:
+images:
+  - path: fullsystem.png
+    alt: "Full System Ligation"
+    caption: "Hem-o-lok PurplePlus Ligation System (Clip, Cartridge, Applier, Remover). Teleflex Marketing Material."
+
+
+description: >
+  Polymer ligation is a +$100M market for Teleflex Medical. The predicate product had been unchanged since the late '90s and all relevant patents expired. Market research over the last 2 decades identified several pain points and unsolved clinical needs in the use of polymer clip systems. I was technical lead of the 'Next Gen Hem-o-lok' project to totally redesign the entire system: Clip, Cartridge, Applier, and Remover. We successfully developed and tested a new design that maintained the same user experiences clinicians had trained to while also resolving the two most common complaints.
+---
+
+<!-- Optional additional body text, if your theme renders post content here. -->
