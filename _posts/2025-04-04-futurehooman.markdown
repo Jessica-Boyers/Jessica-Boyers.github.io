@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2025-03-03
 title: "Life Size Operation"
 tile_title: "Future Hooman"     # optional; falls back to `title`
 img: cartridge.jpg                    # main hero/tile image in img/portfolio/
-alt: "Next Generation Polymer Ligation Clip, Cartridge, Applier, and Remover"
+alt: "NA"
 project-date: "2025"
 client: "Future Hooman"
 category: "Engineering"
