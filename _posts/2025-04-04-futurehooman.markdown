@@ -11,18 +11,20 @@ project-date: "2025"
 client: "Future Hooman"
 category: "Engineering"
 
-# OPTIONAL: Additional images shown below the text in the modal
-# Either an array of strings:
-# images:
-#   - extra-1.jpg
-#   - extra-2.jpg
-#
-# Or an array of objects with alt/caption:
-images:
-  - path: fullsystem.png
-    alt: "Full System Ligation"
-    caption: "NA"
 
+images:
+  - path: Door mdodel.png
+    alt: ""
+    caption: ""
+  - path: Receptacle.png
+    alt: ""
+    caption: ""
+  - path: circuits.png
+    alt: ""
+    caption: ""
+  - path: lights.png
+    alt: ""
+    caption: ""
 
 description: >
   Future Hooman is an up-and-coming interactive art space in Durham, NC in the style of Meow Wolf, with a clinical theme. I take on several roles. First and foremost, I am the design and fabricator of Life Size Operation, a human scale mechatronic laparscopic surgery game that follows the same rules as classic board game Operation. I designed 4 key mechanical systems: self contained smart "pieces" to pick up and move around, motorized smart "receptacles" for them to be placed in and track their state, the lighting and user interface engine, and the faux-surgical tools that players use to interact with the game. I also performed all of the woodworking for the physical structure.
