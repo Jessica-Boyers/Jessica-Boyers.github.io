@@ -11,17 +11,18 @@ project-date: "2024"
 client: "Teleflex"
 category: "Product Development"
 
-# OPTIONAL: Additional images shown below the text in the modal
-# Either an array of strings:
-# images:
-#   - extra-1.jpg
-#   - extra-2.jpg
-#
-# Or an array of objects with alt/caption:
+
 images:
   - path: fullsystem.png
     alt: "Full System Ligation"
     caption: "Hem-o-lok PurplePlus Ligation System (Clip, Cartridge, Applier, Remover). Teleflex Marketing Material."
+  - path: justcart.jpg
+    alt: ""
+    caption: ""
+  - path: cliptest.mp4
+    alt: "Clip Test"
+    caption: "Clip Demonstration"
+    
 
 description: |
   **Motivation:** Polymer ligation is a +$100M market for Teleflex Medical. The predicate product had been unchanged since the late '90s and all relevant patents expired. Market research over the last 2 decades identified several pain points and unsolved clinical needs in the use of polymer clip systems.
