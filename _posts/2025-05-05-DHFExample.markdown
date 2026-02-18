@@ -3,6 +3,7 @@ layout: default
 modal-id: 4
 date: 2025-05-05
 title: "DHF Example: HMX SDU1"
+order: 3
 tile_title: "DHF Example"     # optional; falls back to `title`
 img: cartridge.jpg                    # main hero/tile image in img/portfolio/
 alt: "na"
