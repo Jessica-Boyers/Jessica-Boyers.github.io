@@ -527,32 +527,29 @@ footer .footer-below {
    ============================ */
 .post-gallery {
   margin-top: 30px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  gap: 16px;
+  display: block; 
 }
 
 .post-gallery-item {
-  flex: 1 1 100%;
+  display: block;
+  width: 100%;
+  margin: 0 0 24px 0;
+}
+
+.post-gallery-item:last-child {
+  margin-bottom: 0;
 }
 
 .post-gallery-media {
   width: 100%;
   height: auto;
-  border-radius: 6px;
   display: block;
+  border-radius: 6px;
 }
 
 .post-gallery-caption {
   font-size: 14px;
   color: #666;
   margin-top: 6px;
-}
-
-@media (min-width: 768px) {
-  .post-gallery-item {
-    flex: 1 1 100%;
-  }
 }
 
