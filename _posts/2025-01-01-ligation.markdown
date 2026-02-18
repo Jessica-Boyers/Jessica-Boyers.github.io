@@ -22,9 +22,15 @@ images:
     alt: "Full System Ligation"
     caption: "Hem-o-lok PurplePlus Ligation System (Clip, Cartridge, Applier, Remover). Teleflex Marketing Material."
 
+description: |
+  **Motivation:** Polymer ligation is a +$100M market for Teleflex Medical. The predicate product had been unchanged since the late '90s and all relevant patents expired. Market research over the last 2 decades identified several pain points and unsolved clinical needs in the use of polymer clip systems.
 
-description: >
-  Polymer ligation is a +$100M market for Teleflex Medical. The predicate product had been unchanged since the late '90s and all relevant patents expired. Market research over the last 2 decades identified several pain points and unsolved clinical needs in the use of polymer clip systems. I was technical lead of the 'Next Gen Hem-o-lok' project to totally redesign the entire system: Clip, Cartridge, Applier, and Remover. We successfully developed and tested a new design that maintained the same user experiences clinicians had trained to while also resolving the two most common complaints.
+  **Objective:** Redesign the entire system (Clip, Cartridge, Applier, Remover) to satisfy new needs while preserving key user experience.
+
+  **Design:** I was technical lead of the 'Next Gen Hem-o-lok' project to accomplish this full system redesign. Alongside a team, we developed novel new mechanical approaches to the Applier and Remover while using complaint data analysis to understand lessons learned from the predicate device and proactively incorporate solutions.
+
+  **Outcome:** Developed, tested, validated, and transfered a new full system design that achieved the new needs, renewed patents, and resolved the two most common complaints.
+
 ---
 
 <!-- Optional additional body text, if your theme renders post content here. -->
