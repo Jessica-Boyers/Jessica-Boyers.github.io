@@ -22,7 +22,7 @@ images:
   - path: circuits.png
     alt: ""
     caption: ""
-  - path: lights.png
+  - path: lights.jpg
     alt: ""
     caption: ""
 
