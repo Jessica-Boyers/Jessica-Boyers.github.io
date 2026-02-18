@@ -3,6 +3,7 @@ layout: default
 modal-id: 3
 date: 2025-02-02
 title: "HMX SDU1"
+order: 2
 tile_title: "Ammo Storage Display Unit"     # optional; falls back to `title`
 img: cartridge.jpg                    # main hero/tile image in img/portfolio/
 alt: "NA"
