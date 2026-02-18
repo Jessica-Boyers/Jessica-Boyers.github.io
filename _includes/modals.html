@@ -24,7 +24,9 @@
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt | default: post.title | escape }}">
 
             <!-- DESCRIPTION -->
-            <p>{{ post.description }}</p>
+            <div class="post-description">
+            {{ post.description | markdownify }}
+            </div>
 
             <!-- Item details -->
             <ul class="list-inline item-details">
