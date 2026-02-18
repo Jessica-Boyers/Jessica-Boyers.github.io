@@ -3,6 +3,7 @@ layout: default
 modal-id: 1
 date: 2024-01-01
 title: "Ligation Clip Systems"
+order: 1
 tile_title: "Teleflex Ligation"     # optional; falls back to `title`
 img: cartridge.jpg                    # main hero/tile image in img/portfolio/
 alt: "Next Generation Polymer Ligation Clip, Cartridge, Applier, and Remover"
