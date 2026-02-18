@@ -5,23 +5,17 @@ date: 2025-05-05
 title: "DHF Example: HMX SDU1"
 order: 3
 tile_title: "DHF Example"     # optional; falls back to `title`
-img: cartridge.jpg                    # main hero/tile image in img/portfolio/
+img: dhfindex.png                    # main hero/tile image in img/portfolio/
 alt: "na"
 project-date: "2025"
 client: "Sovereigness Designs"
 category: "Product Development"
 
-# OPTIONAL: Additional images shown below the text in the modal
-# Either an array of strings:
-# images:
-#   - extra-1.jpg
-#   - extra-2.jpg
-#
-# Or an array of objects with alt/caption:
+
 images:
-  - path: fullsystem.png
-    alt: "Full System Ligation"
-    caption: "Hem-o-lok PurplePlus Ligation System (Clip, Cartridge, Applier, Remover). Teleflex Marketing Material."
+  - path: tracematrix.png
+    alt: "Trace Matrix"
+    caption: "Trace Matrix Excerpt"
 
 
 description: >
