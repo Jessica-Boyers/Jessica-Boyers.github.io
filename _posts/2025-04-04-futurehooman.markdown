@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 date: 2025-03-03
 title: "Life Size Operation"
+order: 4
 tile_title: "Future Hooman"     # optional; falls back to `title`
 img: cartridge.jpg                    # main hero/tile image in img/portfolio/
 alt: "NA"
