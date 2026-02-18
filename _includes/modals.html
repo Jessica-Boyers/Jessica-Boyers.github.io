@@ -6,8 +6,9 @@
       - strings: "extra1.jpg"
       - or objects: { path: "extra1.jpg", alt: "Alt text", caption: "Optional caption" }
 {% endcomment %}
+{% assign portfolio_posts = site.posts | sort: "order" %}
 
-{% for post in site.posts %}
+{% for post in portfolio_posts %}
 <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-labelledby="portfolioModalLabel-{{ post.modal-id }}">
   <div class="modal-content" role="document">
     <div class="close-modal" data-dismiss="modal" aria-label="Close">
