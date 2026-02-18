@@ -536,10 +536,11 @@ footer .footer-below {
   flex: 1 1 100%;
 }
 
-.post-gallery-item img {
+.post-gallery-media {
   width: 100%;
   height: auto;
   border-radius: 6px;
+  display: block;
 }
 
 .post-gallery-caption {
