@@ -431,6 +431,11 @@ footer .footer-below {
     box-shadow: none;
 }
 
+/* Left-align portfolio modal description text only */
+.portfolio-modal .post-description {
+    text-align: left;
+}
+
 .portfolio-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
