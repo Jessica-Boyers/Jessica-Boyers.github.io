@@ -42,6 +42,7 @@ description: |
   - Design and Development Plan
   - Design Inputs and trace matrix
   - FMEAs
+  - Design Output Documentation
   - Test method and test method validation
   - Human Factors validation
   - Verification and Validation Plan, Verification Protocols and Reports
