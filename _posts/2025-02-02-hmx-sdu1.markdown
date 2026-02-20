@@ -36,9 +36,22 @@ images:
     caption: ""
     
 description:  |
-  **Motivation:** The HMX SDU1 Ammunition Storage Display Unit is a firearm accessory for lever action rifles or other tube-fed firearms to display the number of rounds remaining in the magazine. Inspired by science-fiction media, this accessory provides a useful and aesthetic reference for recreational, sport, and competition shooters to know the state of their magazine without disassembling or clearing the firearm..
-  **Objective:** Design and develop at a device that mounts to the normal optical rail of the firearm and is a drop-in self contained replacement for the magazine of a Henry Model X, and can be hotswapped or uninstalled freely. The device must display the magazine state to the user in a way appropriate to normal firearm usage.
-  **Design:** As founder of Sovereigness Designs, I had complete ownership of the design and development of this product. Many different sensor concepts were investigated, but for this product to be successful in its niche it needed to be manufacturable without custom industrial processes - it needed to work as an add-on modification to the existing magazine. Rapid prototyping and testing honed the design iteratively. I made my own custom electronics and C++ software to operate the device.
+  **Motivation:** The HMX SDU1 Ammunition Storage Display Unit is a firearm accessory for lever action rifles or other tube-fed firearms to display the number of rounds remaining in the magazine. Inspired by science-fiction media, this accessory provides a useful and aesthetic reference for recreational, sport, and competition shooters to know the state of their magazine without disassembling or clearing the firearm.
+  
+  **Objective:** Design and develop a device that mounts to the normal optical rail of the firearm and is a drop-in self contained replacement for the magazine of a Henry Model X, and can be hotswapped or uninstalled freely. The device must display the magazine state to the user in a way appropriate to normal usage.
+  
+  **Design:** As founder of Sovereigness Designs, I had complete ownership of the design and development of this product. Many different sensor concepts were investigated, but for this product to be successful in its niche it needed to be manufacturable without custom industrial processes - it needed to work as an add-on modification to the existing magazine.
+  
+  The following sensor approaches were investigated:
+  - Force sensistive resistor as minimally invasive load cell
+  - Hall effect array to detect follower position
+  - Inertial mass calculation using onboard IMU
+  - Ultrasonic transducer to detect follower depth
+  - String-potentiometer connected to follower
+  - Rotary encoder connected to follower by cable
+
+  The best approach that allowed for a robust non-invasive addon was the rotary encoder connected by cable. Rapid prototyping and testing honed the design iteratively. I made my own custom electronics and C++ software to operate the device.
+  
   **Outcome:** The device meets all performance requirements and operates excellently with the intended firearm. I sell it at Sovereigness Designs. Customer satisfaction has been high.
 ---
 
