@@ -7,7 +7,7 @@ order: 1
 tile_title: "Teleflex Ligation"     # optional; falls back to `title`
 img: cartridge.jpg                    # main hero/tile image in img/portfolio/
 alt: "Next Generation Polymer Ligation Clip, Cartridge, Applier, and Remover"
-project-date: "2024"
+project-date: "2021"
 client: "Teleflex"
 category: "Product Development"
 
