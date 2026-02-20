@@ -32,10 +32,10 @@ description: |
   **Design:** I was technical lead of the 'Next Gen Hem-o-lok' project to accomplish this full system redesign. In a cross-functional team, we developed novel new mechanical approaches to the Applier and Remover while using complaint data analysis to understand lessons learned from the predicate device and proactively incorporate solutions. 
 
   I had primary design ownership of:
-- The Applier and Remover, including their mechanism and end effectors
-- The cartridge which delivers the clips to the sterile field
-- The blisterpack for the cartridge
-- 2 of 3 sizes of available clips which perform vessel ligation
+  - The Applier and Remover, including their mechanism and end effectors
+  - The cartridge which delivers the clips to the sterile field
+  - The blisterpack for the cartridge
+  - 2 of 3 sizes of available clips which perform vessel ligation
 
   Design spanned simple CNC mill and lathe, advanced mill-turn / swiss screw machine, injection molding, thermoforming, and sheet metal design. The design approach included detailed finite element analysis (FEA) in ANSYS of the injection molded clips to model their plastic deformation which enabled us to achieve the desired performance in the injection molding tool on the first try, saving cost and timeline. For metal machined components, rapid prototyping and iterating was employed using low-cost manufacturing prototype partners to prove out DFM and DFA in real world conditions.
 
