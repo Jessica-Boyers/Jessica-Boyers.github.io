@@ -35,24 +35,23 @@ images:
     alt: ""
     caption: ""
     
-description:  |
-  **Motivation:** The HMX SDU1 Ammunition Storage Display Unit is a firearm accessory for lever action rifles or other tube-fed firearms to display the number of rounds remaining in the magazine. Inspired by science-fiction media, this accessory provides a useful and aesthetic reference for recreational, sport, and competition shooters to know the state of their magazine without disassembling or clearing the firearm.
-  
-  **Objective:** Design and develop a device that mounts to the normal optical rail of the firearm and is a drop-in self contained replacement for the magazine of a Henry Model X, and can be hotswapped or uninstalled freely. The device must display the magazine state to the user in a way appropriate to normal usage.
-  
-  **Design:** As founder of Sovereigness Designs, I had complete ownership of the design and development of this product. Many different sensor concepts were investigated, but for this product to be successful in its niche it needed to be manufacturable without custom industrial processes - it needed to work as an add-on modification to the existing magazine.
-  
-  The following sensor approaches were investigated:
-  - Force sensistive resistor as minimally invasive load cell
-  - Hall effect array to detect follower position
-  - Inertial mass calculation using onboard IMU
-  - Ultrasonic transducer to detect follower depth
-  - String-potentiometer connected to follower
-  - Rotary encoder connected to follower by cable
+description: |
+  **Motivation:** The HMX SDU1 is a compact electromechanical accessory that provides an at-a-glance indication of remaining rounds for a tube-fed, lever-action firearm such as the Henry Model X. Inspired by sci-fi UI aesthetics in media, it’s designed to reduce guesswork and unnecessary handling by giving the user a quick visual reference of magazine state without disassembling or clearing the magazine.
 
-  The best approach that allowed for a robust non-invasive addon was the rotary encoder connected by cable. Rapid prototyping and testing honed the design iteratively. I made my own custom electronics and C++ software to operate the device.
-  
-  **Outcome:** The device meets all performance requirements and operates excellently with the intended firearm. I sell it at Sovereigness Designs. Customer satisfaction has been high.
+  **Objective:** Design, develop, and commercialize a self-contained module that mounts to a standard optic rail and installs/removes without permanent modification. The device needed to be durable, hotswappable, and intuitive during normal use, while remaining manufacturable without specialized, custom industrial processes.
+
+  **Design / Role:** As founder of Sovereigness Designs, I owned the full product lifecycle: requirements, concept generation, sensor selection studies, mechanical packaging, electronics, embedded firmware, prototyping, test, and small-batch production.
+
+  **Sensor concepts evaluated:**
+  - Force-sensitive resistor (minimally invasive load sensing)
+  - Hall-effect array (follower position tracking)
+  - IMU-based estimation (inertial modeling)
+  - Ultrasonic ranging (depth measurement)
+  - String potentiometer (linear displacement)
+  - Cable-coupled rotary encoder (position measurement)
+
+  The data demonstrated that the best architecture for a minimally invasive add-on was a **cable-coupled rotary encoder** to track follower position. I iterated the mechanical design through rapid prototyping and real-world testing, and developed custom electronics plus low-power embedded software (C++) to run sensing, calibration, and the user display.
+
+  **Outcome:** The device meets its functional requirements on the target platform and is now sold through Sovereigness Designs. This project demonstrates end-to-end ownership: taking a concept from idea → engineering prototype → validated design → customer-ready product.
 ---
-
 <!-- Optional additional body text, if your theme renders post content here. -->
