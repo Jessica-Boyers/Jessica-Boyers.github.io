@@ -27,11 +27,19 @@ images:
 description: |
   **Motivation:** Polymer ligation is a +$100M market for Teleflex Medical. The predicate product had been unchanged since the late '90s and all relevant patents expired. Market research over the last 2 decades identified several pain points and unsolved clinical needs in the use of polymer clip systems.
 
-  **Objective:** Redesign the entire system (Clip, Cartridge, Applier, Remover) to satisfy new needs while preserving key user experience.
+  **Objective:** Redesign the entire system (Clip, Cartridge, Applier, Remover) to satisfy new needs while preserving the key user experience of the predicate device.
 
-  **Design:** I was technical lead of the 'Next Gen Hem-o-lok' project to accomplish this full system redesign. Alongside a team, we developed novel new mechanical approaches to the Applier and Remover while using complaint data analysis to understand lessons learned from the predicate device and proactively incorporate solutions. I had primary design ownership of the Applier and Remover, including their mechanism and end effectors; the cartridge which delivers the clips to the sterile field; the blisterpack for the cartridge; and 2 out of 3 sizes of available clips which perform vessel ligation. This spanned simple CNC mill / lathe processes, advanced mill-turn / swiss screw machine process, injection molding, thermoforming, and sheet metal design. Design approach including detailed finite element analysis (FEA) in ANSYS of the injection molded clips to model their plastic deformation / compliance during operation, and resulted in extremely accurate modeling which enabled us to achieve the desired performance in the injection molding tool on the first try, saving cost and timeline. For metal machined components, rapid prototyping and iterating was employed using low-cost manufacturing prototype partners to prove out DFM and DFA in real world conditions.
+  **Design:** I was technical lead of the 'Next Gen Hem-o-lok' project to accomplish this full system redesign. In a cross-functional team, we developed novel new mechanical approaches to the Applier and Remover while using complaint data analysis to understand lessons learned from the predicate device and proactively incorporate solutions. 
 
-  **Outcome:** Successfully developed, tested, validated, and transfered a new full system design that achieved the new needs, renewed patents, and resolved the two most common complaints. I had ownership of the creation of the verification protocols and their execution as well as Human Factors validation, and significant input into the validation protocol and execution. These devices are currently on the market, and my contacts at Teleflex told me initial complaint data was trending positively. Surgeon (user) feedback was extremely positive and drove large capital-intensive entire tool change over sales at key hospitals.
+I had primary design ownership of:
+- The Applier and Remover, including their mechanism and end effectors
+- The cartridge which delivers the clips to the sterile field
+- The blisterpack for the cartridge
+- 2 of 3 sizes of available clips which perform vessel ligation
+
+This spanned simple CNC mill and lathe, advanced mill-turn / swiss screw machine, injection molding, thermoforming, and sheet metal design. The design approach included detailed finite element analysis (FEA) in ANSYS of the injection molded clips to model their plastic deformation which enabled us to achieve the desired performance in the injection molding tool on the first try, saving cost and timeline. For metal machined components, rapid prototyping and iterating was employed using low-cost manufacturing prototype partners to prove out DFM and DFA in real world conditions.
+
+  **Outcome:** Successfully developed, tested, validated, and transferred a new full system design that achieved the new needs, renewed patents, and resolved the two most common complaints. I had ownership of the creation of the verification protocols and their execution as well as Human Factors validation, and significant input into the validation protocol and execution. The system is now commercially available, with early post-market feedback trending positively and strong surgeon response supporting high sales volume conversions at key accounts.
 ---
 
 <!-- Optional additional body text, if your theme renders post content here. -->
