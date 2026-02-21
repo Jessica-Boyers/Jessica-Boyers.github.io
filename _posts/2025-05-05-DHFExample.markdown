@@ -18,9 +18,12 @@ images:
     caption: "Trace Matrix Excerpt"
 
 
-description: >
-  As an exercise and to demonstrate my capability for performing Design Controls and developing medical devices in accordance with CFR 820 / ISO 13485, I created a "mock" Design History File (DHF) for my product the HMX SDU1 Ammunition Storage Display Unit. This example DHF is scaled deliberately for the product in question (not a medical device) and the manufacturing environment / lack of regulatory requirements surrounding them.
-  However, it still showcases a full product design cycle following the flow from user needs -> design inputs -> design process -> design outputs -> verification and validation -> design transfer. An excerpt is shown here. The full DHF is available on my github repository, and can be provided on request.
+description: |
+  **Purpose:** To demonstrate that I can execute Design Controls end-to-end either within an established QMS or by building the structure myself, I created a scaled “mock” **Design History File (DHF)** for the HMX SDU1 product.
+
+  **What this shows:** A complete design-control flow that mirrors regulated medical device development: **User Needs → Design Inputs → Design Outputs → Risk Management → Verification & Validation → Design Transfer**, with traceability throughout. The level of rigor is intentionally scaled to match the product’s risk profile and non-regulated manufacturing context, while still reflecting the core expectations of 21 CFR 820-style medical device development.
+
+  **What you can review here:** A short, sanitized excerpt that includes the DHF index and traceability artifacts. An abbreviated "Greatest Hits" package showcasing some of the core DHF items is available at the link below. The full DHF (including detailed records and supporting documents) is available upon request.
   
 
 ---
