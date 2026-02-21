@@ -38,7 +38,7 @@ images:
 description: |
   **Motivation:** The HMX SDU1 is a compact electromechanical accessory that provides an at-a-glance indication of remaining rounds for a tube-fed, lever-action firearm such as the Henry Model X. Inspired by sci-fi UI aesthetics in media, it’s designed to reduce guesswork and unnecessary handling by giving the user a quick visual reference of magazine state without disassembling or clearing the magazine.
 
-  **Objective:** Design, develop, and commercialize a self-contained module that mounts to a standard optic rail and installs/removes without permanent modification. The device needed to be durable, hotswappable, and intuitive during normal use, while remaining manufacturable without specialized, custom industrial processes.
+  **Objective:** Design, develop, and commercialize a self-contained module that mounts to a standard optic rail and installs/removes without permanent modification. The device needed to be durable, hotswappable, and intuitive during normal use, while remaining manufacturable without specialized, custom industrial processes. The device must maintain acceptable storage capacity, fire rate, and ergonomics.
 
   **Design / Role:** As founder of Sovereigness Designs, I owned the full product lifecycle: requirements, concept generation, sensor selection studies, mechanical packaging, electronics, embedded firmware, prototyping, test, and small-batch production.
 
