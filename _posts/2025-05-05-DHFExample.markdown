@@ -10,14 +10,20 @@ alt: "na"
 project-date: "2025"
 client: "Sovereigness Designs"
 category: "Product Development"
-
+download_url: /DHF_Portfolio_Abridged.pdf
+download_label: "Download Abridged DHF Here"
 
 images:
+  - path: DDP.png
+    alt: "Trace Matrix"
+    caption: "Design and Development Plan Excerpt" 
   - path: tracematrix.png
     alt: "Trace Matrix"
     caption: "Trace Matrix Excerpt"
-
-
+  - path: DverReport.png
+    alt: "Trace Matrix"
+    caption: "Design Verification Report Excerpt"
+    
 description: |
   **Purpose:** To demonstrate that I can execute Design Controls end-to-end either within an established QMS or by building the structure myself, I created a scaled “mock” **Design History File (DHF)** for the HMX SDU1 product.
 
