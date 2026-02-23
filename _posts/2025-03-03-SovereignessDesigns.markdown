@@ -27,7 +27,7 @@ images:
     caption: "Galaxy Brain Skull Lamp"
     
 description: |
-  **Overview:** Sovereigness Designs is my small design/build studio for rapid, custom problem-solving—short-run products and one-off commissions that sit in the “too niche for off-the-shelf, too complex for DIY” space. Typical work includes mechanical design, light electromechanical integration, CAD + rapid prototyping, and fabrication for functional devices, fixtures, and decor.
+  **Overview:** Sovereigness Designs is my small design/build studio for rapid, custom problem solving, short run products, and one-off commissions that sit in the “too niche for off-the-shelf, too complex for DIY” space. Typical work includes mechanical design, light electromechanical integration, CAD + rapid prototyping, and fabrication for functional devices, fixtures, and decor.
 
   **Note:** My most complex Sovereigness Designs product, the **HMX SDU1**, is featured as its own separate portfolio tile.
 
