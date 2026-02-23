@@ -5,7 +5,7 @@ date: 2025-02-02
 title: "HMX SDU1"
 order: 2
 tile_title: "Ammo Storage Display Unit"     # optional; falls back to `title`
-img: FullSystemModel.png                    # main hero/tile image in img/portfolio/
+img: viewA.png                    # main hero/tile image in img/portfolio/
 alt: "NA"
 project-date: "2025"
 client: "Sovereigness Designs"
@@ -13,10 +13,10 @@ category: "Product Development"
 
 
 images:
-  - path: fullsystem.png
+  - path: hmxsdu1DemoCropped.mp4
     alt: ""
-    caption: ""
-  - path: fullsystem.png
+    caption: "Ammo Display Unit Demo"
+  - path: FullSystemModel.png
     alt: ""
     caption: ""
   - path: displayunit.png
@@ -33,7 +33,7 @@ images:
     caption: ""
   - path: electronics.mp4
     alt: ""
-    caption: ""
+    caption: "Display unit electronics"
     
 description: |
   **Motivation:** The HMX SDU1 is a compact electromechanical accessory that provides an at-a-glance indication of remaining rounds for a tube-fed, lever-action firearm such as the Henry Model X. Inspired by sci-fi UI aesthetics in media, it’s designed to reduce guesswork and unnecessary handling by giving the user a quick visual reference of magazine state without disassembling or clearing the magazine.
