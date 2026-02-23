@@ -36,6 +36,18 @@
               {% if post.project-date %}<li>Date: <strong>{{ post.project-date }}</strong></li>{% endif %}
             </ul>
 
+            <!-- Download Button -->
+            {% if post.download_url %}
+              <p class="text-center" style="margin: 20px 0 10px;">
+                <a href="{{ post.download_url | relative_url }}"
+                   class="btn btn-lg btn-primary"
+                   target="_blank"
+                   rel="noopener">
+                  <i class="fa fa-download"></i> {{ post.download_label | default: "Download" }}
+                </a>
+              </p>
+            {% endif %}
+
             <!-- OPTIONAL: EXTRA IMAGES GALLERY -->
             {% if post.images %}
             <div class="post-gallery" aria-label="Additional images for {{ post.title }}">
