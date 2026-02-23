@@ -30,7 +30,23 @@ images:
     caption: "Game display"
     
 description: |
-  Future Hooman is an up-and-coming interactive art space in Durham, NC in the style of Meow Wolf, with a clinical theme. I take on several roles. First and foremost, I am the design and fabricator of Life Size Operation, a human scale mechatronic laparscopic surgery game that follows the same rules as classic board game Operation. I designed 4 key mechanical systems: self contained smart "pieces" to pick up and move around, motorized smart "receptacles" for them to be placed in and track their state, the lighting and user interface engine, and the faux-surgical tools that players use to interact with the game. I also performed all of the woodworking for the physical structure.
+  **Motivation:** Future Hooman is an immersive, interactive exhibit space in Durham, NC featuring electromechanical builds created by multiple artists. The space needs exhibits that are engaging, reliable, and maintainable—and it also needs practical safety standards to support a growing collection of DIY electronics and mechatronics.
+
+  **Objective:** In my role as an **engineering consultant**, I support Future Hooman in three ways:
+  - Design and fabricate my own flagship exhibit (**Life Size Operation**), a human-scale mechatronic *laparoscopic* surgery game inspired by the classic board game
+  - Provide design, fabrication, and troubleshooting guidance across other creators’ mechatronic exhibits
+  - Establish and maintain safe electrical/fire practices appropriate for an exhibit space with many one-off devices
+
+  **Design / Role:** I am the lead designer/fabricator for **Life Size Operation** (in progress), owning end-to-end mechanical/electrical integration. Key subsystems I designed include:
+  - Self-contained “smart” game pieces
+  - Motorized, state-tracking receptacles (actuation + sensing)
+  - Lighting + user interface control system
+  - Player tools and interaction hardware
+  - Physical cabinet/structure fabrication (woodworking + assembly)
+
+  In parallel, I’ve contributed engineering support to ~**8** other exhibits—helping with mechanism design, electronics integration, debugging, and build-for-reliability improvements. I also developed and implemented **electronics and fire safety standards and procedures**, including a review process for artists' DIY circuits and devices, tracking and load planning across devices in the space, and practical controls to reduce fire risk (wiring practices, overcurrent protection, and safe power distribution).
+
+  **Outcome:** Life Size Operation is actively under development with functioning electromechanical subsystems demonstrated in prototypes (see images/video). Beyond my exhibit, the broader impact is improved reliability and safer operation across multiple installations through standardized review and safety practices. Future Hooman is currently operating with regular private and party events with high exhibit reliability and no safety incidents so far.
 ---
 
 <!-- Optional additional body text, if your theme renders post content here. -->
