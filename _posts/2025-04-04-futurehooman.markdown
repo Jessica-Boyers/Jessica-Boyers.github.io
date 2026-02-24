@@ -46,7 +46,7 @@ description: |
 
   In parallel, I’ve contributed engineering support to ~**8** other exhibits—helping with mechanism design, electronics integration, debugging, and build-for-reliability improvements. I also developed and implemented **electronics and fire safety standards and procedures**, including a review process for artists' DIY circuits and devices, tracking and load planning across devices in the space, and practical controls to reduce fire risk (wiring practices, overcurrent protection, and safe power distribution).
 
-  **Outcome:** Life Size Operation is actively under development with functioning electromechanical subsystems demonstrated in prototypes (see images/video). Beyond my exhibit, the broader impact is improved reliability and safer operation across multiple installations through standardized review and safety practices. Future Hooman is currently operating with regular private and party events with high exhibit reliability and no safety incidents so far.
+  **Outcome:** Life Size Operation is actively under development with functioning electromechanical subsystems demonstrated in prototypes (see images/video). Beyond my exhibit, the broader impact is improved reliability and safer operation across multiple installations through standardized review and safety practices. Future Hooman is currently operating with regular private and party events with high exhibit reliability and no safety incidents.
 ---
 
 <!-- Optional additional body text, if your theme renders post content here. -->
