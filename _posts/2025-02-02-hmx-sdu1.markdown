@@ -28,9 +28,7 @@ images:
   - path: sensorunit.png
     alt: ""
     caption: ""
-  - path: mount.png
-    alt: ""
-    caption: ""
+
   - path: electronics.mp4
     alt: ""
     caption: "Display unit electronics"
